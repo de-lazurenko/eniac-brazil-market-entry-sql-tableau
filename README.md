@@ -26,8 +26,8 @@ Eniac, a European tech retailer, is considering a 3-year partnership with **Magi
 * **Insight:** Currently, only **1.38%** of deliveries meet the strict "fast delivery" expectations, with an average delivery time of **14 days** compared to Eniac's 3-day target.
 
 ## 📂 Project Structure
-* `magist_analysis.sql`: Contains the full SQL code for data extraction and analysis.
-* `Magist_presentation.pdf`: Visual summary of findings and final recommendations.
+* `Eniac_analysis.sql`: Contains the full SQL code for data extraction and analysis.
+* `Eniac_presentation.pdf`: Visual summary of findings and final recommendations.
 
 ## 💡 Final Recommendation
 Based on the logistics performance and tech-segment concentration, the recommendation is to **Do not sign the deal. Magist's 14-day delivery speed and low average order value (154 BRL) directly conflict with Eniac's premium brand and "3-day delivery" promise.**.
